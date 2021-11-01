@@ -12,8 +12,13 @@ htmlcov/
 .coverage*
 
 *.npz
+*.txt
+*.xls
+*.xlsx
+*.fas
 *.tif*
 *.hdf5
+
 *.h5
 *.zip
 *.png
