@@ -1,0 +1,310 @@
+1	726	CDS
+			product Putative RNA-binding protein YlmH
+			transl_table	11
+			codon_start	1
+878	1579	CDS
+			product Cell division initiation protein DivIVA
+			transl_table	11
+			codon_start	1
+2148	1594	CDS
+			product Phage tail tape measure protein
+			transl_table	11
+			codon_start	1
+1616	1745	repeat_region
+			product repeat region
+			rpt_type	tandem
+2372	2145	CDS
+			product hypothetical protein
+			transl_table	11
+			codon_start	1
+2588	2373	CDS
+			product hypothetical protein
+			transl_table	11
+			codon_start	1
+2907	2569	CDS
+			product hypothetical protein
+			transl_table	11
+			codon_start	1
+3089	2925	CDS
+			product hypothetical protein
+			transl_table	11
+			codon_start	1
+3291	3082	CDS
+			product hypothetical protein
+			transl_table	11
+			codon_start	1
+3519	3364	CDS
+			product hypothetical protein
+			transl_table	11
+			codon_start	1
+3730	3596	CDS
+			product hypothetical protein
+			transl_table	11
+			codon_start	1
+4050	3820	CDS
+			product hypothetical protein
+			transl_table	11
+			codon_start	1
+4454	4050	CDS
+			product hypothetical protein
+			transl_table	11
+			codon_start	1
+4640	4455	CDS
+			product hypothetical protein
+			transl_table	11
+			codon_start	1
+5017	4637	CDS
+			product hypothetical protein
+			transl_table	11
+			codon_start	1
+5423	5046	CDS
+			product hypothetical protein
+			transl_table	11
+			codon_start	1
+5611	5423	CDS
+			product Phage protein
+			transl_table	11
+			codon_start	1
+5836	5624	CDS
+			product hypothetical protein
+			transl_table	11
+			codon_start	1
+6184	5960	CDS
+			product hypothetical protein
+			transl_table	11
+			codon_start	1
+6680	6883	CDS
+			product hypothetical protein
+			transl_table	11
+			codon_start	1
+6883	7086	CDS
+			product hypothetical protein
+			transl_table	11
+			codon_start	1
+7086	7484	CDS
+			product Phage-associated homing endonuclease
+			transl_table	11
+			codon_start	1
+7823	7996	CDS
+			product Phage protein
+			transl_table	11
+			codon_start	1
+8011	8484	CDS
+			product Phage terminase small subunit
+			transl_table	11
+			codon_start	1
+8647	10374	CDS
+			product Phage terminase large subunit
+			transl_table	11
+			codon_start	1
+10446	10610	CDS
+			product hypothetical protein
+			transl_table	11
+			codon_start	1
+10614	11807	CDS
+			product Phage portal (connector) protein
+			transl_table	11
+			codon_start	1
+11764	12315	CDS
+			product Phage maturation protease
+			transl_table	11
+			codon_start	1
+12386	13678	CDS
+			product Phage major capsid protein of Caudovirales
+			transl_table	11
+			codon_start	1
+13803	14003	CDS
+			product hypothetical protein
+			transl_table	11
+			codon_start	1
+14043	14336	CDS
+			product Phage DNA packaging protein
+			transl_table	11
+			codon_start	1
+14311	14643	CDS
+			product Phage protein
+			transl_table	11
+			codon_start	1
+14640	15047	CDS
+			product Phage protein
+			transl_table	11
+			codon_start	1
+15044	15409	CDS
+			product Phage protein
+			transl_table	11
+			codon_start	1
+15486	16049	CDS
+			product Phage major tail protein
+			transl_table	11
+			codon_start	1
+16229	16561	CDS
+			product hypothetical protein
+			transl_table	11
+			codon_start	1
+16627	16797	CDS
+			product hypothetical protein
+			transl_table	11
+			codon_start	1
+16797	20684	CDS
+			product Phage tail tape measure
+			transl_table	11
+			codon_start	1
+20760	22835	CDS
+			product Phage protein
+			transl_table	11
+			codon_start	1
+22847	25240	CDS
+			product Phage tail assembly protein
+			transl_table	11
+			codon_start	1
+25421	25666	CDS
+			product Phage tail fiber
+			transl_table	11
+			codon_start	1
+25681	25914	CDS
+			product Phage holin
+			transl_table	11
+			codon_start	1
+25915	27015	CDS
+			product Phage lysin N-acetylmuramoyl-L-alanine amidase (EC 3.5.1.28)
+			transl_table	11
+			codon_start	1
+27340	27104	CDS
+			product Glutaredoxin-like protein NrdH required for reduction of Ribonucleotide reductase class Ib
+			transl_table	11
+			codon_start	1
+27525	27355	CDS
+			product hypothetical protein
+			transl_table	11
+			codon_start	1
+29910	27619	CDS
+			product hypothetical protein
+			transl_table	11
+			codon_start	1
+30170	29943	CDS
+			product hypothetical protein
+			transl_table	11
+			codon_start	1
+30973	30260	CDS
+			product hypothetical protein
+			transl_table	11
+			codon_start	1
+31862	31041	CDS
+			product hypothetical protein
+			transl_table	11
+			codon_start	1
+32037	31852	CDS
+			product hypothetical protein
+			transl_table	11
+			codon_start	1
+32783	32016	CDS
+			product hypothetical protein
+			transl_table	11
+			codon_start	1
+33275	32796	CDS
+			product hypothetical protein
+			transl_table	11
+			codon_start	1
+33478	33272	CDS
+			product hypothetical protein
+			transl_table	11
+			codon_start	1
+33968	33480	CDS
+			product hypothetical protein
+			transl_table	11
+			codon_start	1
+34341	34129	CDS
+			product hypothetical protein
+			transl_table	11
+			codon_start	1
+35075	34338	CDS
+			product hypothetical protein
+			transl_table	11
+			codon_start	1
+35309	35133	CDS
+			product hypothetical protein
+			transl_table	11
+			codon_start	1
+36598	35306	CDS
+			product hypothetical protein
+			transl_table	11
+			codon_start	1
+36987	36595	CDS
+			product hypothetical protein
+			transl_table	11
+			codon_start	1
+37198	36971	CDS
+			product hypothetical protein
+			transl_table	11
+			codon_start	1
+37422	37198	CDS
+			product hypothetical protein
+			transl_table	11
+			codon_start	1
+37634	37425	CDS
+			product hypothetical protein
+			transl_table	11
+			codon_start	1
+37806	37636	CDS
+			product hypothetical protein
+			transl_table	11
+			codon_start	1
+38080	37799	CDS
+			product hypothetical protein
+			transl_table	11
+			codon_start	1
+38572	38129	CDS
+			product hypothetical protein
+			transl_table	11
+			codon_start	1
+38769	38593	CDS
+			product Phage protein
+			transl_table	11
+			codon_start	1
+39073	38846	CDS
+			product hypothetical protein
+			transl_table	11
+			codon_start	1
+39390	39073	CDS
+			product hypothetical protein
+			transl_table	11
+			codon_start	1
+39590	39384	CDS
+			product hypothetical protein
+			transl_table	11
+			codon_start	1
+41263	39680	CDS
+			product hypothetical protein
+			transl_table	11
+			codon_start	1
+41564	41358	CDS
+			product hypothetical protein
+			transl_table	11
+			codon_start	1
+41803	41561	CDS
+			product hypothetical protein
+			transl_table	11
+			codon_start	1
+42017	41793	CDS
+			product hypothetical protein
+			transl_table	11
+			codon_start	1
+42231	42010	CDS
+			product hypothetical protein
+			transl_table	11
+			codon_start	1
+42455	42231	CDS
+			product hypothetical protein
+			transl_table	11
+			codon_start	1
+42613	42455	CDS
+			product hypothetical protein
+			transl_table	11
+			codon_start	1
+43175	42768	CDS
+			product hypothetical protein
+			transl_table	11
+			codon_start	1
+43048	43177	repeat_region
+			product repeat region
+			rpt_type	inverted
