@@ -13,8 +13,6 @@ htmlcov/
 .coverage*
 
 *.npz
-*.txt
-*.xls
 *.xlsx
 *.fas
 *.tif*
@@ -28,3 +26,4 @@ htmlcov/
 config.json
 thresholds.json
 examples/**/data
+SEsuP-1 annotation.xls
