@@ -19,5 +19,5 @@ There is an example of input table:
 
 The script obtain data and turn into tab-delimited five-column table.
 
-<img src="https://user-images.githubusercontent.com/87424869/139804305-c23c6c9d-9ea6-4fc4-9b6e-4f9df3281892.jpg" width = "5000">
+<img src="https://github.com/Nosa1323/BankIt_Submission_Helper/blob/main/Pictures/Aims.jpg?raw=true" width = "5000">
 
